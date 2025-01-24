@@ -163,7 +163,10 @@ Kurtosis measures the "tailedness" of a distribution:
 
 #### **What is Normal Probability?**  
 - It deals with events that follow a **bell-shaped curve**, called the **normal distribution**.  
-- Most data clusters around the mean, with fewer data points appearing as you move away from it.  
+- Most data clusters around the mean, with fewer data points appearing as you move away from it.
+
+![image](https://github.com/user-attachments/assets/3b68a464-8d31-403b-aab3-365ffc5ed8fa)
+
 
 **Key Features:**  
 1. Symmetrical around the mean.  
