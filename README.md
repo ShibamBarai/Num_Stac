@@ -54,6 +54,39 @@ Suppose we have the same data:
 ![image](https://github.com/user-attachments/assets/e00e5ec3-f5fd-4a93-9e80-4b385b4333bf)
 ![image](https://github.com/user-attachments/assets/b8b8c12d-6132-4ea7-8db2-e2292b79f6cf)
 
+---
 
+### **3) Mean, Median, Mode, Standard Deviation, Quartile Deviation**  
 
+![image](https://github.com/user-attachments/assets/b29bda54-5977-407f-b17a-6967f0665919)
+
+---
+
+![image](https://github.com/user-attachments/assets/5566c09e-255a-4fac-aa8b-4150accf0702)
+
+---
+
+#### **Mode (Most Frequent Value)**  
+**Definition:**  
+- The value that appears most often in the dataset.  
+
+**Example 1:**  
+Data: 10, 20, 20, 30, 40.  
+Mode = 20 (appears twice).  
+
+**Example 2 (No Mode):**  
+Data: 10, 20, 30, 40.  
+Mode = None (no repeating values).  
+
+**Example 3 (Multiple Modes):**  
+Data: 10, 20, 20, 30, 30, 40.  
+Mode = 20 and 30.
+
+---
+
+![image](https://github.com/user-attachments/assets/2766ffce-11a8-49fb-ac1d-19664dce3a85)
+
+![image](https://github.com/user-attachments/assets/15dc3528-f649-46b1-80b8-2ce03021025e)
+
+![image](https://github.com/user-attachments/assets/748e95ed-7075-4e25-bb68-5217ca883841)
 
