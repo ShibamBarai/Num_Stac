@@ -10,8 +10,6 @@ When one variable increases, the other increases as well. The correlation coeffi
 There is no relationship between the variables. The correlation coefficient is 0.
 -Perfect negative correlation
 When one variable increases, the other decreases. The correlation coefficient is -1.
-![image](https://github.com/user-attachments/assets/536ef3eb-fd41-4bc1-b01d-bc2abec03dcc)
-
 
 ![image](https://github.com/user-attachments/assets/68d6be8e-4e34-425a-96c7-b5ecc3d29f93)
 
@@ -51,6 +49,11 @@ Suppose we have the same data:
 | 8                  | 80                |
 
 **Step-by-step Solution:**  
+![image](https://github.com/user-attachments/assets/31cc2c48-34c6-4223-9438-8a36f1848a18)
+![image](https://github.com/user-attachments/assets/d9b4a5cd-39d7-4113-8a6e-57dbf027d7f3)
+![image](https://github.com/user-attachments/assets/e00e5ec3-f5fd-4a93-9e80-4b385b4333bf)
+![image](https://github.com/user-attachments/assets/b8b8c12d-6132-4ea7-8db2-e2292b79f6cf)
 
-**Step 1: Regression Formula:**  
+
+
 
