@@ -1,5 +1,5 @@
 ## Numerical Methods
--
+--
 ![image](https://github.com/user-attachments/assets/564f325c-cf9c-49f3-a4fa-b158a5ef6fa3)
 ![image](https://github.com/user-attachments/assets/b3ed9d7a-a4aa-4a4b-9c6f-77f522f79a82)
 ![image](https://github.com/user-attachments/assets/dc23e074-2017-4c94-86a5-42c8ec86548b)
